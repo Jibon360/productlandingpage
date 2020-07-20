@@ -1,0 +1,21 @@
+@media (max-width:991px){
+    header nav .navbar-nav{
+        background-color: #ffffff;
+    }
+    .navbar-nav .nav-link{
+        color: crimson !important;
+     
+    }
+    .banner-right{
+        margin-bottom: 20px !important;
+    }
+
+    .banner-right img {
+        width: 100%;
+        max-width: 400px;
+        animation: mehedi 5s linear infinite;
+        -webkit-animation: mehedi 5s linear infinite;
+        float: none;
+        
+    }
+}
